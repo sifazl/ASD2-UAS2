@@ -21,13 +21,10 @@ public class BinaryApp {
         
         System.out.print("Traversal dengan inorder :");
         tree.inOrder();
-        System.out.println("");
         System.out.print("\nTraversal dengan preorder :");
         tree.preOrder();
-        System.out.println("");
         System.out.print("\nTraversal dengan postorder :");
         tree.postOrder();
-        System.out.println();
     }
     
 }
